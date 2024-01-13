@@ -1,1 +1,1 @@
-# rResponsive-seat-selectorUI
+# Responsive-seat-selectorUI
